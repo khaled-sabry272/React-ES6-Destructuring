@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-ES6-Destructuring/static/css/main.e6c13ad2.css",
+    "main.js": "/React-ES6-Destructuring/static/js/main.d66a4d60.js",
+    "static/js/453.776c4724.chunk.js": "/React-ES6-Destructuring/static/js/453.776c4724.chunk.js",
+    "index.html": "/React-ES6-Destructuring/index.html",
+    "main.e6c13ad2.css.map": "/React-ES6-Destructuring/static/css/main.e6c13ad2.css.map",
+    "main.d66a4d60.js.map": "/React-ES6-Destructuring/static/js/main.d66a4d60.js.map",
+    "453.776c4724.chunk.js.map": "/React-ES6-Destructuring/static/js/453.776c4724.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d66a4d60.js"
+  ]
+}
